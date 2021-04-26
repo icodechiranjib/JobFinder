@@ -1,6 +1,6 @@
 body {
     font-family: "Poppins", sans-serif;
-    background: rgba(246, 247, 251, 1);
+    background: rgb(150, 173, 255);
 }
 
 .navlink {
@@ -27,7 +27,7 @@ body {
     margin: 30px 0px;
     height: 138px;
     width: 100%;
-    background: url(jumbo.png);
+    background: url(../images/jumbo.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -228,8 +228,9 @@ p {
 }
 
 .footer {
-    color: #B9BDCF;
-    font-size: 0.9em;
+    color: #000000;
+    font-size: 1em;
+    text-align: center;
 }
 
 @keyframes click {

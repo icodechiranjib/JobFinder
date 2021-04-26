@@ -193,3 +193,9 @@ a {
 .call-button {
     margin-bottom: 5px;
 }
+
+.footer {
+    color: #000000;
+    font-size: 1em;
+    text-align: center;
+}
